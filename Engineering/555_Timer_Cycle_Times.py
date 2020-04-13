@@ -9,3 +9,4 @@ while(True):
     print(f'Td = {td}')
     print(f'Tc = {tc}')
     print(300%(td+tc))
+    print()
